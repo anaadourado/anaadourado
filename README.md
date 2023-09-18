@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando com análise e visualização de dados **Projeto Integrador - 1º semestre**
 
-- 🌱 Atualmente estou aprendendo **Sistemas Operacionais e Inteligência Artificial**
+- 🌱 Atualmente estou aprendendo **NoSQL e Inteligência Artificial**
 
 - 💬 Me pergunte sobre **Python, SQL, Power BI**
 
